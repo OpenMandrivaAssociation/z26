@@ -1,6 +1,6 @@
 Name:		z26
 Version:	3.02.01
-Release:	2
+Release:	3
 Summary:	An Atari 2600 Video Computer System emulator
 License:	GPLv2+
 Group:		Emulators
