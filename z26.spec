@@ -4,7 +4,7 @@ Release:	3
 Summary:	An Atari 2600 Video Computer System emulator
 License:	GPLv2+
 Group:		Emulators
-URL:		http://www.whimsey.com/z26/z26.html
+URL:		https://www.whimsey.com/z26/z26.html
 Source0:	http://www.whimsey.com/z26/%{name}v%{version}s.zip
 BuildRequires:	pkgconfig(sdl)
 BuildRequires:	pkgconfig(gl)
